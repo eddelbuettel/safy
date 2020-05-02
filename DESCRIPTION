@@ -1,0 +1,12 @@
+Package: safy
+Type: Package
+Title: Show the Global Environment Some Appreciation
+Version: 0.0.1
+Date: 2020-05-02
+Author: Dirk Eddelbuettel
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Description: In times as trying as these, some extra care is sorely needed for the
+ treatment of one's global variables. A  constructive suggestion was made in
+ <https://twitter.com/Obsidiandy/status/1256667469852393474>, and this package aims
+ to pblige.
+License: GPL (>= 2)

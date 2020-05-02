@@ -1,0 +1,6 @@
+^.git$
+^.*\.Rproj$
+^\.Rproj\.user$
+testMe.R
+^.*\.tar\.gz$
+^docs
